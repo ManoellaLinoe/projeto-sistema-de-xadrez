@@ -1,0 +1,23 @@
+[33mcommit bceef2ffd627ee53db67bb6ab679e03d7905bd00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ManoellaLinoe <mlino@grupocereal.com.br>
+Date:   Wed Mar 23 14:25:34 2022 -0300
+
+    Começando a implementar Board e Piece
+
+[33mcommit 30c5038998d29eb2dd27055b73e1c288a9d11160[m
+Author: ManoellaLinoe <mlino@grupocereal.com.br>
+Date:   Wed Mar 23 14:13:53 2022 -0300
+
+    Primeira classe: Position
+
+[33mcommit f88099bdd8263746692e097ece0736d8e1cb0a31[m
+Author: ManoellaLinoe <mlino@grupocereal.com.br>
+Date:   Wed Mar 23 14:06:46 2022 -0300
+
+    Projeto criado
+
+[33mcommit 385ec349b44729a7ab5963d64cc48d666cef9209[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ManoellaLinoe <101186669+ManoellaLinoe@users.noreply.github.com>
+Date:   Wed Mar 23 13:55:50 2022 -0300
+
+    Initial commit
